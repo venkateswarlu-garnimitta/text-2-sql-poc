@@ -26,7 +26,7 @@ class DecomposerAgent:
         start_time = time.time()
         try:
             client = FlotorchLLM(
-                model_id="flotorch/flotorch-model",
+                model_id=os.getenv("FLOTORCH_MODEL"),
                 api_key=os.getenv("FLOTORCH_API_KEY"),
                 base_url=os.getenv("FLOTORCH_BASE_URL")
             )

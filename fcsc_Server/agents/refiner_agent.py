@@ -30,7 +30,7 @@ class RefinerAgent:
         try:
             # client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
             client = FlotorchLLM(
-                model_id="flotorch/flotorch-model",
+                model_id=os.getenv("FLOTORCH_MODEL"),
                 api_key=os.getenv("FLOTORCH_API_KEY"),
                 base_url= os.getenv("FLOTORCH_BASE_URL")
             )
