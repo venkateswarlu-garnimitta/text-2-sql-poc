@@ -1,0 +1,91 @@
+{
+    "title": "🔍 Natural Language to SQL",
+    "subtitle": "Enter your question in natural language and get the SQL query.",
+    "processButton": "Process Query",
+    "processing": "Processing...",
+    "clearButton": "Clear Results",
+    "pipelineTitle": "Processing Pipeline",
+    "executionTime": "Execution time",
+    "placeholder": "Example: What was the GDP contribution of Manufacturing in 2020?",
+    "appTitle": "NL2SQL Assistant",
+    "browse":"Browse Files",
+    "About":"About",
+    "Database Status:":"Database Status:",
+    "files":"Upload Files",
+    "Upload CSV files":"Upload CSV files",
+    "create table":" Create Table from Uploaded CSV",
+    "History":"Query History",
+    "schema loaded":"Database Schema loaded",
+    "matter":" This app converts natural language into SQL queries for a SQLite  database (data/my_database.db) using AI agents:",
+    "Schema Loader":"Schema Loader:",
+    "fmater":"Extracts DB structure",
+    "Selector Agent":"Selector Agent",
+    "smater":"Breaks query into parts",
+    "Decomposer Agent":"Decomposer Agent",
+    "tmater":"Breaks query into parts",
+    "Refiner Agent":"Refiner Agent",
+    "frmater":"Generates clean SQLite SQL",
+    "Visualization Agent":"Visualization Agent",
+    "fimater":"Suggests charts",
+    "Query Results & Summary":"Query Results & Summary",
+
+    "Admin":"Admin",
+    "User":"User",
+
+    "ontheimagecontent":"Data For A Better Future",
+    "ontheimagesecondcontent":"THE BEST COUNTRY IN THE WORLD BY 2071",
+
+    "fetching":" Crafting your SQL Query... please hold on",
+    "warning":" Could you try rephrasing your input",
+   "output":"Query Output",
+   "loadingVisualizationAgentData":"loadingVisualizationAgentData",
+    "No table data":"There is no table data",
+    "No valid table data":"No valid table data",
+    "Empty table":"Empty table",
+  
+    "status": "Status",
+    "details": "Details",
+    "schemaContent": "Schema Content",
+    "loading":"Loading tab content",
+    "not":"Details are not in a displayable format",
+    "nodata":"No details available",
+    "Decomposer JSON":"Decomposer JSON",
+    "Generated SQL Query":" Generated SQL Query",
+    "Executed SQL":"Executed SQL",
+    "Data Insights":"Data Insights",
+    "Suggested Visualization Type":"Suggested Visualization Type",
+    "Result":"Result Table",
+  
+  
+    "Queryr":"Query Results",
+    "Summary":"Summary",
+    "lsights":"Loading Insights",
+    "Generating":"Generating",
+    "pdf":"Generate PDF Report",
+    "Rows":"Rows",
+    "Columns":"Columns",
+    "Visualization":"Visualization",
+  
+    "export":"Export Results",
+    "Downloading CSV":"Downloading CSV",
+    "csv":"Download as CSV",
+    "Downloading Excel":"Downloading Excel",
+    "excel":
+    "Download as Excel",
+
+
+
+    "tabs": {
+    "Schema Loader": "Schema Loader",
+    "Selector Agent": "Selector Agent",
+    "Decomposer Agent": "Decomposer Agent",
+    "Refiner Agent": "Refiner Agent",
+    "Database Execution": "Database Execution",
+    "Visualization Agent":"Visualization Agent"
+
+   
+
+  }
+  
+  }
+  

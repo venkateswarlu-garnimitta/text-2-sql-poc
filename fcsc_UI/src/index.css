@@ -1,0 +1,20 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .scrollbar-thin::-webkit-scrollbar {
+      height: 4px;
+    }
+  
+    .scrollbar-thin::-webkit-scrollbar-thumb {
+      background-color: #cbd5e0;
+      border-radius: 9999px;
+    }
+  
+    .scrollbar-thin::-webkit-scrollbar-track {
+      background-color: #f7fafc;
+    }
+  }

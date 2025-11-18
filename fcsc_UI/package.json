@@ -1,0 +1,48 @@
+{
+  "name": "nl2sql",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "https://Indu-fission.github.io/NL2SQL-Assistant",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chart.js": "^4.4.9",
+    "gh-pages": "^6.3.0",
+    "i18next": "^25.2.1",
+    "lucide-react": "^0.511.0",
+    "papaparse": "^5.5.2",
+    "primeicons": "^7.0.0",
+    "primereact": "^10.9.5",
+    "react": "^19.1.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.1.0",
+    "react-i18next": "^15.5.2",
+    "react-icons": "^5.5.0",
+    "react-markdown": "^10.1.0",
+    "react-toastify": "^11.0.5",
+    "recharts": "^2.15.3",
+    "tailwind-scrollbar": "^3.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.4.1",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.3.5"
+  }
+}

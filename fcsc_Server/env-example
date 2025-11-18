@@ -1,0 +1,5 @@
+# OPENAI_API_KEY = "your openai api key" If openai used
+FLOTORCH_API_KEY = "your_flotorch_api_key"
+FLOTORCH_BASE_URL = "flotorch_base_url" # eg.. https://gateway.flotorch.ai
+SUPABASE_URL= "your supabase url"
+SUPABASE_KEY= "your supabase key"
